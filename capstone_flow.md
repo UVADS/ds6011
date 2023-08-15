@@ -12,7 +12,7 @@ Note: These steps are done by faculty / staff:
 
 #
 
-- **Capstone Part 1: Orientation**: Residential MSDS students meet with faculty member to prepare during semester 1.  
+- **Capstone Part 1: Orientation**: Students meet with faculty / staff member to prepare during semester 1.  
 
   *Deliverables*  
   1/ Project Proposal  
