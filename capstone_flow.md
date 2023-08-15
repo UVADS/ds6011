@@ -5,6 +5,7 @@ This document provides the end-to-end steps of the capstone experience at a high
 
 ---
 
+Note: These steps are done by faculty / staff:  
 - **Sourcing**: Identify sponsors
 - **Vetting**: Review and select admissible projects  
 - **Matching**: Students matched to projects based on interest and availability. Mentors matched based on background and availability.
