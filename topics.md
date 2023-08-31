@@ -3,7 +3,7 @@
 | Meeting #     | Topic      | Details |
 | ----------- | ----------- | ----------- |
 | 1 | Introduction to capstone     | - Review syllabus <br> - Capstone flow <br> - Project plan template <br> - Capstone project tracker |
-| 2 | Project discovery | - Review project discovery deck <br> - Understand if project is appropriate <br> - Understand business requirements, benefits, vision <br> - Defining success criteria <br> - Deciding what is in scope <br>  - Understand personas impacted, how they will use |
+| 2 | Project discovery | - Review team contract <br> - Review project discovery deck <br> - Understand if project is appropriate <br> - Understand business requirements, benefits, vision <br> - Defining success criteria <br> - Deciding what is in scope <br>  - Understand personas impacted, how they will use |
 | | Current state discovery | - Understand prior work, if any <br> - data used, code, approaches, models <br> - what worked / did not work|
 | |  Taking ownership and earning trust  | - Admit and own mistakes early <br> - Be thoughtful about everything  |
 | | Pushing back and uncomfortable conversations     |  - Prioritize and define scope <br> - Be clear and honest to stay aligned |
