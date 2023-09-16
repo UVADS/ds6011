@@ -7,11 +7,10 @@
 | 3 | ML Problem Framing | - Define the ML task based on the business question <br>  - Discuss data <br> - Review the literature <br> - Optimization objective <br> - Important metrics|
 | 4 | Crucial conversations     |  - Definition:  opposing opinions, strong emotions, high stakes  <br> - Start with heart <br> - Make it safe <br> - Contrasting <br> - Master your stories |
 | 5 |  Influence | - Building trust and relationships <br> - Leadership principles <br> - Earning the ability to effectively lead and influence|
-| | Current state discovery | - Understand prior work, if any <br> - data used, code, approaches, models <br> - what worked / did not work|
-| |  Effective statistics and error analysis  |  - Only show what's useful <br> - Show everything useful <br> - Identify weaknesses by deep diving into errors  |
-| | Deep dive on data     | - What data is available now <br> - What data is necessary but not available <br> - Are there useful predictors <br> - Are labels available <br> - Understanding data schema, data dictionary (if available) <br> - Identify edge cases|
-| | Risk and Troubleshooting | - What can go wrong with the model <br> - Working effectively with teammates <br> - Working effectively with the sponsor|
-| | Giving Effective Presentations | - Practice and prepare <br> - Presentations are for listening, not reading <br> - Keep the listener engaged |
+| 6 |  Efficient meetings |  - Have an agenda <br> - Review actions and decisions <br> - Get feedback and alignment <br> - Distribute tasks <br> - Get buy-in for next steps  |
+| 7 |  Effective statistics and error analysis  |  - Only show what's useful <br> - Show everything useful <br> - Identify weaknesses by deep diving into errors  |
+| 8 | Risk and Troubleshooting | - What can go wrong with the model <br> - Working effectively with teammates <br> - Working effectively with the sponsor|
+| 9 | Giving Effective Presentations | - Practice and prepare <br> - Presentations are for listening, not reading <br> - Keep the listener engaged |
 
 ---
 
