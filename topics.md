@@ -7,7 +7,7 @@
 | 3 | ML Problem Framing | - Define the ML task based on the business question <br>  - Discuss data <br> - Review the literature <br> - Optimization objective <br> - Important metrics|
 | 4 | Crucial conversations     |  - Definition:  opposing opinions, strong emotions, high stakes  <br> - Start with heart <br> - Make it safe <br> - Contrasting <br> - Master your stories |
 | 5 |  Influence | - Building trust and relationships <br> - Leadership principles <br> - Earning the ability to effectively lead and influence|
-| 6 |  Efficient meetings |  - Have an agenda <br> - Review actions and decisions <br> - Get feedback and alignment <br> - Distribute tasks <br> - Get buy-in for next steps  |
+| 6 |  Project planning |  - Stages and sequence <br> - Coordinating <br> - Collaboration <br> - Meetings with sponsor <br> - Get buy-in for next steps  |
 | 7 |  Effective statistics and error analysis  |  - Only show what's useful <br> - Show everything useful <br> - Identify weaknesses by deep diving into errors  |
 | 8 | Risk and Troubleshooting | - What can go wrong with the model <br> - Working effectively with teammates <br> - Working effectively with the sponsor|
 | 9 | Giving Effective Presentations | - Practice and prepare <br> - Presentations are for listening, not reading <br> - Keep the listener engaged |
