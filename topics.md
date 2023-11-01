@@ -9,7 +9,7 @@
 | 5 |  Influence | - Building trust and relationships <br> - Leadership principles <br> - Earning the ability to effectively lead and influence|
 | 6 |  Project planning |  - Stages and sequence <br> - Coordinating <br> - Collaboration <br> - Meetings with sponsor <br> - Get buy-in for next steps  |
 | 7 |  Effective statistics and error analysis  |  - Only show what's useful <br> - Show everything useful <br> - Identify weaknesses by deep diving into errors  |
-| 8 | Risk and Troubleshooting | - What can go wrong with the model <br> - Working effectively with teammates <br> - Working effectively with the sponsor|
+| 8 | Getting started and Troubleshooting | - Advice for getting started <br> - Common questions with potential solutions|
 | 9 | Giving Effective Presentations | - Practice and prepare <br> - Presentations are for listening, not reading <br> - Keep the listener engaged |
 
 ---
