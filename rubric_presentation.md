@@ -1,4 +1,4 @@
-### Rubric for Final Presentation
+### Rubric for Progress Presentation
 
 Possible Points Total: 10
 
@@ -7,8 +7,8 @@ Possible Points Total: 10
 | Content | Included Project Purpose and Background | 1 |
 | Content | Included Data Discussion | 1 |
 | Content | Included Assumptions and Limitations | 1 |
-| Content | Included Methods Discussion | 1 |
-| Content | Included Summary / Findings | 1 |
+| Content | Mentioned Potentially Useful Background Material | 1 |
+| Content | Included Project Plan | 1 |
 | Delivery | Presenters had command of material | 1 |
 | Delivery | Presentation fit in time allowed | 1 |
 | Style | Slides were clear  | 1 |
@@ -16,5 +16,6 @@ Possible Points Total: 10
 | Style | Figures and Tables were easy to read  | 1 |
 
 Notes:  
-- Make sure figures have axes, labels, and titles that are easy to read
+- The content can come from the Project Plan
+- Background material might include literature and software, for example
 - For tips on effective presentations, see [here](https://github.com/UVADS/ds6011/blob/main/09_effective_presentations.ppt)
