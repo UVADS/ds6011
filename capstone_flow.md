@@ -29,7 +29,7 @@ Note: These steps are done by faculty / staff:
   3/ Presentation  
 
   Optional: Presentation and paper for [SIEDS](https://engineering.virginia.edu/ieee-sieds)  
-  SIEDS is is a student-focused international forum for applied research, development, and design in Systems and Information Engineering. 
+  SIEDS is a student-focused international forum for applied research, development, and design in Systems and Information Engineering. 
 
 #
 
