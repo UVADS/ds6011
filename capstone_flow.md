@@ -44,8 +44,8 @@ Students do these activities:
 
   *Deliverables*  
   1/ Project Paper  
-  2/ Documented Code
-  3/ Results (e.g., output, dashboard, models, chatbot)
+  2/ Documented Code  
+  3/ Results (e.g., output, dashboard, models, chatbot)  
   4/ Presentation  
 
   Optional: Presentation and paper for [SIEDS](https://engineering.virginia.edu/ieee-sieds)  
