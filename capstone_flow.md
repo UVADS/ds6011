@@ -12,10 +12,11 @@ Note: These steps are done by Capstone Director / faculty / staff:
 
 #
 
-- **Capstone Part 1:**:
+- **Capstone Part 1**:
 
 Students do these activities:
   - Conduct discovery meetings with sponsor to understand the project, background, and data
+  - Estiblish norms and best ways to communicate
   - Complete relevant training and onboarding
   - Review the data, data dictionary if available
   - Conduct exploratory data analysis
