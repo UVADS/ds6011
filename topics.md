@@ -2,7 +2,7 @@
 
 | Meeting #     | Topic      | Details |
 | ----------- | ----------- | ----------- |
-| 1 | Introduction to Capstone     | - Review syllabus <br> - Capstone flow <br> - Project plan template <br> - Capstone project tracker |
+| 1 | Introduction to Capstone     | - Review syllabus <br> - Review Canvas <br> - Capstone flow <br> - Project plan template <br> - Capstone project tracker |
 | 2 |  Project Planning |  - Stages and sequence <br> - Sprint ownership <br> - Coordinating <br> - Collaboration <br> - Meetings with sponsor <br> - Get buy-in for next steps  |
 | 3 | Project Discovery | - Review team contract <br> - Review project discovery deck <br> - Understand if project is appropriate <br> - Understand business requirements, benefits, vision <br> - Defining success criteria <br> - Deciding what is in scope <br>  - Understand personas impacted, how they will use |
 | 4 | ML Problem Framing | - Define the ML task based on the business question <br>  - Discuss data <br> - Review the literature <br> - Optimization objective <br> - Important metrics|
