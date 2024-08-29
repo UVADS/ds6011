@@ -25,7 +25,7 @@ Students do these activities:
   - **Note:** Some projects might require more hands-on work, sponsor meetings, deliverables in this term
 
   *Deliverables*  
-  1/ Project Plan. This is to be reviewed with the faculty mentor and sponsor.
+  1/ Project Plan. This is to be reviewed with the faculty mentor and sponsor.  
   2/ Write contract: among members of team; how often to meet, how to deal w conflict  
   3/ Data Presentation: provide overview of project, discuss project plan, discuss data  
 
@@ -53,7 +53,7 @@ Students do these activities:
 
 #
 
-- **Feedback Collection**: Feedback is gathered from students and mentors.  
+- **Feedback Collection**: Feedback is gathered from students, mentors, and sponsors.  
 - **Sharing Feedback and Learning**: The feedback is presented to SDS faculty and staff for improving the capstone process.
 
 #
