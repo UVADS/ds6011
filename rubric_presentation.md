@@ -18,4 +18,4 @@ Possible Points Total: 10
 Notes:  
 - The content can come from the Project Plan
 - Background material might include literature and software, for example
-- For tips on effective presentations, see [here](https://github.com/UVADS/ds6011/blob/main/09_effective_presentations.ppt)
+- For tips on effective presentations, see [here](https://github.com/UVADS/ds6011/blob/main/08_effective_presentations.ppt)
