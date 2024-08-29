@@ -48,7 +48,7 @@ Students do these activities:
   3/ Results (e.g., output, dashboard, models, chatbot)  
   4/ Presentation  
 
-  Optional: Presentation and paper for [SIEDS](https://engineering.virginia.edu/ieee-sieds](https://engineering.virginia.edu/department/systems-and-information-engineering/academics/undergraduate-programs/current-undergrads/sieds)  
+  Optional: Presentation and paper for [SIEDS](https://engineering.virginia.edu/department/systems-and-information-engineering/academics/undergraduate-programs/current-undergrads/sieds)  
   SIEDS is a student-focused international forum for applied research, development, and design in Systems and Information Engineering. 
 
 #
