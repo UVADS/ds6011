@@ -9,5 +9,4 @@ CAPSTONE I AGENDA
 - Project plan template
 - Capstone project tracker
 
-Review example data dictionary: HMIS-Data-Dictionary-2024
 
