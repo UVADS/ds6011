@@ -1,5 +1,5 @@
 ### Steps of the Capstone Process
-Last updated: August 29, 2024
+Last updated: April 22, 2025
 
 This document provides the end-to-end steps of the capstone experience at a high level.
 
@@ -53,6 +53,11 @@ Students do these activities:
 
 #
 
+- **Communicating Results**:
+  - All projects are presented at a forum (e.g, Capstone Presentation Day)
+  - Select projects are promoted on SDS website
+  - Some teams choose to publish or present their work more broadly
+ 
 - **Feedback Collection**: Feedback is gathered from students, mentors, and sponsors.  
 - **Sharing Feedback and Learning**: The feedback is presented to SDS faculty and staff for improving the capstone process.
 
